@@ -33,13 +33,11 @@ address the following questions:
 3. Are there any countries that have significantly changed their climate
    change actions over time?
 
-• The Python code necessary to replicate the Matplotlib visualizations
-
-# Deliverables
+# Deliverables by 11:59pm 20/02/24
 
 1. Visualization Report (use the template)
 
-2. Presentation to c-levels based on the visualization report
+2. Presentation Slides to c-levels based on the visualization report (5 min)
 
 3. Code(both .pdf and .ipynb format) : able to reproduce the results incldued in the visualization report
 
